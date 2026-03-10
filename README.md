@@ -286,7 +286,7 @@ jobs:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=A78BFA&style=flat-square&label=👁️+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SuryaSreyash&color=A78BFA&style=flat-square&label=👁️+Profile+Views)
 
 *"The best way to predict the future is to build it." — and I'm just getting started. 🚀*
 
